@@ -4,3 +4,4 @@ And now a third?
 keep going
 and going
 A line written from GitHub
+MERGE CONFLICT
