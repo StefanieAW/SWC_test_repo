@@ -1,3 +1,2 @@
 Hello references
-Add another line
-test differences 
+Add another line, then delete some, and add more
